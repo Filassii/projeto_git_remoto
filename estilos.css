@@ -1,0 +1,13 @@
+h1 {
+  color: white;
+  font-size: 80px;
+}
+
+body {
+  background-color: gray;
+  text-align: center;
+}
+
+img {
+  max-width: 100;
+}
